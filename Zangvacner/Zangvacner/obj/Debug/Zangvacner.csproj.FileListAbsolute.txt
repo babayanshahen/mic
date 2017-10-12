@@ -1,0 +1,7 @@
+C:\Users\Shahen\Desktop\ShahenMic\Zangvacner\Zangvacner\bin\Debug\Zangvacner.exe.config
+C:\Users\Shahen\Desktop\ShahenMic\Zangvacner\Zangvacner\bin\Debug\Zangvacner.exe
+C:\Users\Shahen\Desktop\ShahenMic\Zangvacner\Zangvacner\bin\Debug\Zangvacner.pdb
+C:\Users\Shahen\Desktop\ShahenMic\Zangvacner\Zangvacner\obj\Debug\Zangvacner.csprojResolveAssemblyReference.cache
+C:\Users\Shahen\Desktop\ShahenMic\Zangvacner\Zangvacner\obj\Debug\Zangvacner.csproj.CoreCompileInputs.cache
+C:\Users\Shahen\Desktop\ShahenMic\Zangvacner\Zangvacner\obj\Debug\Zangvacner.exe
+C:\Users\Shahen\Desktop\ShahenMic\Zangvacner\Zangvacner\obj\Debug\Zangvacner.pdb

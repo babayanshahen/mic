@@ -1,0 +1,7 @@
+C:\Users\Shahen\Desktop\ShahenMic\miclesson1\miclesson1\bin\Debug\miclesson1.exe.config
+C:\Users\Shahen\Desktop\ShahenMic\miclesson1\miclesson1\bin\Debug\miclesson1.exe
+C:\Users\Shahen\Desktop\ShahenMic\miclesson1\miclesson1\bin\Debug\miclesson1.pdb
+C:\Users\Shahen\Desktop\ShahenMic\miclesson1\miclesson1\obj\Debug\miclesson1.csproj.CoreCompileInputs.cache
+C:\Users\Shahen\Desktop\ShahenMic\miclesson1\miclesson1\obj\Debug\miclesson1.exe
+C:\Users\Shahen\Desktop\ShahenMic\miclesson1\miclesson1\obj\Debug\miclesson1.pdb
+C:\Users\Shahen\Desktop\ShahenMic\miclesson1\miclesson1\obj\Debug\miclesson1.csprojResolveAssemblyReference.cache
